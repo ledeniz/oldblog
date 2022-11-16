@@ -2,4 +2,4 @@
 title: welcome, friend.
 ---
 
-I'm [Deniz](https://github.com/ledeniz). Here is the place  where I collect [the occasional thought about stuff]({{ site.baseurl }}{{% post_url 2022-11-16-about %}}).
+I'm [Deniz](https://github.com/ledeniz). Here is the place  where I collect [the occasional thought about stuff](https://ledeniz.github.io/blog/about.html).
