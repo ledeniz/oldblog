@@ -1,4 +1,8 @@
 title: thoughts of a deer
 author: Deniz Erdogan
 description : a blog is a blog is a blog
+
 theme: minima
+
+url: https://ledeniz.github.io
+baseurl: /blog
